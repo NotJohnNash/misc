@@ -6,7 +6,7 @@
 
 [The Bargaining problem](http://www.eecs.harvard.edu/cs286r/courses/spring02/papers/nash50a.pdf)
 
-[ideal-money-and-asymptotically-ideal-money](fermatslibrary.com/s/ideal-money-and-asymptotically-ideal-money)
+[ideal-money-and-asymptotically-ideal-money](http://fermatslibrary.com/s/ideal-money-and-asymptotically-ideal-money)
 
 [nash_letters1](https://www.nsa.gov/news-features/declassified-documents/nash-letters/assets/files/nash_letters1.pdf)
 
