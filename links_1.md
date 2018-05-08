@@ -37,6 +37,9 @@ people."
 (relevant to 1:12:00) John Nash's response when asked about bitcoin:
 https://www.youtube.com/watch?v=NUyCO3FXHS4
 
+https://www.youtube.com/watch?v=epWmY_Utrfc
+
+http://web.math.princeton.edu/jfnj/texts_and_graphics/Main.Content/An_Interesting_Equation_and_An_Interesting_Possibility/
 
 ## Donations
 
